@@ -1,0 +1,9 @@
+[submodule "datascript"]
+	path = datascript
+	url = https://github.com/tonsky/datascript.git
+[submodule "cljs-start"]
+	path = cljs-start
+	url = https://github.com/magomimmo/cljs-start.git
+[submodule "play-core.logic/core.logic"]
+	path = play-core.logic/core.logic
+	url = https://github.com/clojure/core.logic.git
