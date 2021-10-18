@@ -7,3 +7,9 @@
 [submodule "play-core.logic/core.logic"]
 	path = play-core.logic/core.logic
 	url = https://github.com/clojure/core.logic.git
+[submodule "vendor/kaocha-cljs2"]
+	path = vendor/kaocha-cljs2
+	url = https://github.com/lambdaisland/kaocha-cljs2.git
+[submodule "vendor/kaocha"]
+	path = vendor/kaocha
+	url = https://github.com/lambdaisland/kaocha.git
